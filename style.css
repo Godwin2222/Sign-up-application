@@ -109,3 +109,9 @@ span{
     color:#f0abab;
     font-weight:bold;
 }
+
+@media (max-width:900px) {
+    width: 40%;
+    height: 50%;
+    
+}
